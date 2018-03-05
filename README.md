@@ -1,3 +1,6 @@
+**Note: This is a fork maintained mainly for Storyful's use that will merge only
+security updates to keep the project stable.**
+
 # XmlHasher
 
 [![Build Status](https://travis-ci.org/cloocher/xmlhasher.png)](https://travis-ci.org/cloocher/xmlhasher)
